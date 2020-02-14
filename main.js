@@ -183,7 +183,7 @@ if( filename == 'movie.html'){
     const wrapper   = document.querySelector('.wrapper')
     const input     = document.querySelector('#inputTitle')
     const button    = document.querySelector('#button')
-    let url         = 'http://www.omdbapi.com/?s='
+    let url         = 'https://www.omdbapi.com/?s='
     let apiKey      = '&apikey=2df18fa6'
     let keyword     = 'human'
 
